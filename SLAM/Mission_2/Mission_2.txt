@@ -1,0 +1,10 @@
+MISSION 2 PARTAGE DES RESSOURCES MATERIELLES
+Actuellement, les imprimantes sont gérées de manière anarchique. Certains utilisateurs ont une imprimante
+installée en local sur leur poste via le port USB, d’autres n’ont pas d’imprimante affectée. De plus, les imprimantes
+étant toutes différentes, la gestion des consommables est un vrai problème lors de l’approvisionnement et la
+gestion des stocks de consommables est difficile (ruptures de stock, pas de négociation possible des prix).
+Mr Binnon a donc acheté 3 imprimantes laser avant votre embauche (adaptées aux volumes importants) afin que
+chaque service dispose d’une imprimante dédiée :
+• Une imprimante de marque HP (qui sera affectée au service ADMINISTRATIF)
+• Une imprimante de marque BROTHER (qui sera affectée au service PEDAGOGIQUE)
+• Une imprimante de marque CANON (qui sera affectée au service DIRECTION) 

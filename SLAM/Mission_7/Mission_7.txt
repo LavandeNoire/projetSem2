@@ -1,0 +1,12 @@
+MISSION 7 – MISE A JOUR DU SITE WEB
+Mr Binnon souhaiterait qu’un accès « privé » de type intranet, c’est-à-dire avec authentification, soit mis en place
+depuis la page d’accueil du site AAPIB afin que les utilisateurs puissent, depuis cet intranet, :
+- faire une demande d’assistance (depuis la solution logicielle choisie dans la mission 3)
+- accéder au cloud privé mis en place (mission 5)
+REMARQUE
+Vous veillerez à rendre, à Mr Binnon, un dossier complet comportant notamment :
+* le plan d’adressage réseau complet (schéma « visio », tableaux, etc…)
+* des documentations techniques
+* des documentations destinées aux utilisateurs.
+Vous veillerez à ce que ces productions soient correctement présentées (images écran, respect des usages, respect
+des règles typographiques de base et de l’orthographe). 

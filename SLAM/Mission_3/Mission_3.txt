@@ -1,0 +1,10 @@
+MISSION 3 – GESTION DES PANNES MATERIELLES ET LOGICIELLES
+Actuellement, lorsqu’un problème survient qu’il soit matériel ou logiciel, un délai est nécessaire pour que
+l’intervention soit réalisée (information non transmise par l’utilisateur, oubli, procédure d’appel téléphonique
+rébarbative et trop longue, etc…). Ce délai entraîne une immobilisation du poste de travail et oblige l’utilisateur
+concerné à utiliser un autre poste le temps que l’intervention soit connue et réalisée par un prestataire externe.
+Mr Binnon vous demande d’étudier une solution qui permettrait, depuis un poste utilisateur fonctionnel, de
+déclarer une panne matérielle ou logicielle. L’information vous serait aussitôt transmise afin que vous puissiez
+intervenir dans les plus brefs délais sur le matériel et informer l’utilisateur que son matériel a été dépanné.
+La mise en place de ce nouveau service devra impérativement s’accompagner d’une formation dispensée aux
+utilisateurs. 

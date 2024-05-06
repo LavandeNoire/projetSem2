@@ -1,0 +1,8 @@
+MISSION 5 MISE EN PLACE D’UNE SOLUTION DE TYPE CLOUD PRIVE
+Mr Binnon souhaiterait pouvoir disposer de certains fichiers sur un espace cloud afin de pouvoir synchroniser ces
+fichiers et les partager à tout moment.
+Vous vous documenterez sur cette solution de cloud privé afin de vérifier les prérequis nécessaires (matériel,
+caractéristiques, etc…) et vous la mettrez en place.
+• Les identifiants utilisés pour se connecter au cloud devront être les mêmes que ceux utilisés pour la
+connexion au réseau local afin d’éviter les erreurs et autres oublis de mots de passe
+• Concevez un document simple qui sera remis aux utilisateurs quant à l’utilisation du cloud privé

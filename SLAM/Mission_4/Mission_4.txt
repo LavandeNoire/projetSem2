@@ -1,0 +1,16 @@
+MISSION 4 – GESTION DU PARC INFORMATIQUE
+Mr Binnon, souhaite que l’ensemble du parc informatique soit inventorié afin qu’il puisse planifier ses
+investissements futurs et assurer le renouvellement régulier du parc informatique en fonction des subventions
+reçues chaque année.
+Il a reçu de la documentation sur 2 types de logiciels pouvant répondre à cette demande mais ses connaissances
+restent limitées en la matière. Il souhaiterait que vous étudiiez une solution répondant à cette attente et que vous
+la mettiez en place :
+• OCS Inventory : https://ocsinventory-ng.org/?lang=fr• FUSION Inventory : http://fusioninventory.org/
+• Autre logiciel ?(Faites des recherches afin de confronter les solutions en présentant les avantages et
+inconvénients de chacunes)
+• Choisissez le logiciel que vous souhaitez mettre en place pour inventorier le parc
+• Justifiez votre choix de logiciel dans un document que vous adressez à Mr Binnon
+• Mettez en place la solution retenue
+• Vous veillerez à ce que les identifiants restent les mêmes que ceux utilisés pour la connexion au
+domaine •Testez votre solution
+• Concevez un document explicatif de cette solution pour Mr Binnon (connexion, utilisation, intérêt)

@@ -1,0 +1,13 @@
+MISSION 6 – CREATION DU SITE WEB
+Mr Binnon voudrait promouvoir via différents moyens l’association ainsi que ses activités. Il a pour cela créer une
+page sur le réseau social Facebook qui ne compte qu’une trentaine d’abonnés. Il voudrait que l’association
+bénéficie d’un site internet
+o qui puisse être visible aussi bien sur poste informatique que sur smartphone
+o qui puisse être simple à mettre à jour pour promouvoir les événements de l’association
+o qui respecte les normes RGPD, mentions obligatoires, politique de confidentialité et conforme aux
+recommandations W3C
+Vous proposerez et développerez une solution répondant à ces critères en justifiant votre choix pour Mr Binnon
+Concevez un document simple remis aux utilisateurs qui pourront mettre à jour le site internet (le format vidéo
+tutoriel est permis)
+Attention : Les utilisateurs ne sont pas au fait des termes techniques, vulgarisez la documentation afin qu’elle
+leur soit accessible

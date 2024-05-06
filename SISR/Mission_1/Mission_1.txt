@@ -1,0 +1,35 @@
+MISSION 1 PREPARATION ET PARAMETRAGE DU SERVEUR
+ARCHITECTURE RESEAU INFORMATIQUE SOUHAITEE PAR MR BONNIN
+• Service ADMINISTRATIF
+o Mme BATON (assistante de direction)
+o Mme ROTTIN (comptable)
+• Service PEDAGOGIQUE
+o Mr LACAUX (enseignant - niveau primaire) o Mme ROY (enseignante - niveau primaire) o Mme
+DELICE (enseignante - niveau secondaire)
+• Service DIRECTION
+o Mr BINNON (Directeur)
+o Mme PUMA (Directrice adjointe)
+Ressources partagées (accès et droits) :
+SERVICE ADMINISTRATIF
+• Lecteur réseau « SERVICE ADMINISTRATIF »
+o Accès total pour mesdames Baron et Bottin o Accès total pour Mr
+Binnon o Accès total pour Mme Puma
+o Mesdames Baton et Rottin auront également un lecteur réseau à leur
+nom dans le poste de travail
+SERVICE PEDAGOGIQUE
+• Lecteur réseau « SERVICE PEDAGOGIQUE »
+o Accès total pour l’ensemble des enseignants o Accès en lecture pour la
+directrice adjointe Mme Puma
+o Chaque enseignant aura un lecteur réseau à son nom dans le poste de travail
+SERVICE DIRECTION
+Lecteur réseau « SERVICE DIRECTION »
+O Accès total pour Mr Binnon et Mme Puma o Mr Binnon aura un lecteur réseau à son nom dans
+son poste de travail (accès pour lui uniquement) o Mme Puma aura un lecteur réseau à son nom
+dans son poste de travail (Mr Binnon pourra lire ce dossier le cas échéant)
+BTS SIO 1 Lycée Condorcet 2022/2023
+4
+BLOC 1 SIO 1
+Mr Binnon souhaite qu’un espace nommé « échange » s’affiche pour tout le monde dans le poste de travail. Cet
+espace permettra la copie de fichiers éventuelle entre tous les services. Attention il s’agit d’un espace temporaire
+qui devra être limité à un quota de 5 Go maximum pour éviter la saturation.
+Une documentation technique complète devra être réalisée pour cette mission. 

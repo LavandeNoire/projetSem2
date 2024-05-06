@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="ProjetSem2" company="" webLink="http://" view-date="2024-04-01" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3307" locale="fr_FR">
+    <description/>
+    <view zooming-state="default:6" id="gantt-chart">
+        <field id="tpd3" name="Nom" width="200" order="0"/>
+        <field id="tpd4" name="Date de début" width="75" order="1"/>
+        <field id="tpd5" name="Date de fin" width="75" order="2"/>
+        <field id="tpd15" name="Notes" width="20" order="3"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="filter.dueTodayTasks" value="false"/>
+        <option id="filter.overdueTasks" value="false"/>
+        <option id="filter.inProgressTodayTasks" value="false"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nom" width="210" order="0"/>
+        <field id="1" name="Rôle par défaut" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="0" mon="0" tue="0" wed="0" thu="0" fri="0" sat="0"/>
+            <only-show-weekends value="true"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" uid="11126968f78c4feea2871fcaf83ba190" name="Active Directory" meeting="false" start="2024-04-08" duration="7" complete="0" expand="true"/>
+        <task id="1" uid="6a5fa443bf5349bfb999f668ade8ee8d" name="Serveur Fichier" meeting="false" start="2024-04-15" duration="18" complete="0" expand="true"/>
+        <task id="2" uid="7ed105d493224c9799ef1cf89bd5dc03" name="Serveur Web" meeting="false" start="2024-05-03" duration="14" complete="0" expand="true"/>
+        <task id="3" uid="6b0ce40612d04fe88850d5a99877d20e" name="Impression" meeting="false" start="2024-05-17" duration="14" complete="0" expand="true"/>
+        <task id="4" uid="8b4043b0feea44d1b930001c28e42662" name="GLPI" meeting="false" start="2024-05-31" duration="24" complete="0" expand="false"/>
+        <task id="5" uid="6d552f5569c14d34bc4885009c8154b3" name="Maquette HTML CSS" meeting="false" start="2024-04-15" duration="13" complete="0" expand="true"/>
+        <task id="6" uid="cde24eaec8ff47ba9924686e23dea251" name="Finission statique" meeting="false" start="2024-04-28" duration="12" complete="0" expand="true">
+            <notes><![CDATA[- Responsive design
+- Normes RGPD
+- Mentions obligatoires
+- Politique de confidentialité
+- Vérification recommandations W3C]]></notes>
+        </task>
+        <task id="7" uid="9216ab7b9cb3475aae329a74ba5e2aa6" name="Authentification + maj d'évènements" meeting="false" start="2024-05-10" duration="13" complete="0" expand="false"/>
+        <task id="8" uid="eb0e401a8b4c4019bb4b073d59173a45" name="Création ticket" meeting="false" start="2024-05-23" duration="14" complete="0" expand="true"/>
+        <task id="9" uid="46247735a839434e8d0a245b5f4fb160" name="Cloud sur Website + doc" meeting="false" start="2024-06-06" duration="18" complete="0" expand="true">
+            <notes><![CDATA[à voir en fonction du temps]]></notes>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
